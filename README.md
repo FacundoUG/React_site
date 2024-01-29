@@ -6,3 +6,6 @@ PREVIEW:
 
 
 ![Screenshot_1](https://github.com/FacundoUG/React_site/assets/71556057/958884fe-641a-42e1-81d5-80154de9f7e1)
+
+
+url: https://lovely-cassata-28e864.netlify.app
